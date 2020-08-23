@@ -51,5 +51,6 @@ This Web App is still in development, maybe for the next 3 months. The future fe
 
 ## Credits
 I do not own any of the images on this project, all credits to the corresponding owners.
+
 [![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/built-with-swag.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/uses-badges.svg)](https://forthebadge.com)
