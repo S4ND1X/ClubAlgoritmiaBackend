@@ -1,4 +1,4 @@
-# Club Algoritmia GDA Fullstack Project
+# Club Algoritmia GDA Fullstack Project - Backend
 ![enter image description here](https://i.imgur.com/RZoXTcW.png)
 
   
