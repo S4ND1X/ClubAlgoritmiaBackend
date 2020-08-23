@@ -9,7 +9,7 @@ const cors = require("cors");
 const app = express();
 
 //App port, from enviroment or 400 as default, heroku takes the process.env
-const PORT = process.env.PORT || 4000;
+const port = process.env.port || 4000;
 
 // Define what happens on main page
 app.get("/api", (req, res) => {
@@ -26,9 +26,9 @@ app.use(express.json({ extended: true }));
 app.use("/api/workshops", require("./routes/workshopsRoute"));
 
 //Run server ans start listening port
-app.listen(PORT, () => {
+app.listen(port, "0.0.0.0", () => {
   console.log("====================================");
-  console.log(`Running on ${PORT}`);
+  console.log(`Running on ${port}`);
   console.log("====================================");
 });
 
