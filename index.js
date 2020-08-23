@@ -9,7 +9,7 @@ const cors = require("cors");
 const app = express();
 
 //App port, from enviroment or 400 as default, heroku takes the process.env
-const port = process.env.PORT || 4000;
+const port = process.env.port || 4000;
 
 // Define what happens on main page
 app.get("/api", (req, res) => {
