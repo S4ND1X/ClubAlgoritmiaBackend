@@ -51,10 +51,7 @@ typings/
 .npm
 
 #enviroment variables
-.env
-.env.example
-.env.local
-.env.staging
+*.env
 
 # Optional eslint cache
 .eslintcache
