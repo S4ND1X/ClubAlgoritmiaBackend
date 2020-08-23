@@ -2,7 +2,7 @@
 ![enter image description here](https://i.imgur.com/RZoXTcW.png)
 
   
-This repository contains the backend of the official [GDA Algorithmic Club](https://github.com/Club-de-Algoritmia-GDA) page, you can check out the frontend repository in [here](https://github.com/S4ND1X/ClubAlgoritmiaReact).
+This repository contains the backend of the official [GDA Algorithmic Club](https://github.com/Club-de-Algoritmia-GDA) page, you can **check out the frontend repository** in [here](https://github.com/S4ND1X/ClubAlgoritmiaReact).
 
 ##   Technologies
 Frontend technologies can be found in [here](https://github.com/S4ND1X/ClubAlgoritmiaReact).
