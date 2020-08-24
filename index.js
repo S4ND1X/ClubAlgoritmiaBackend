@@ -18,7 +18,7 @@ app.get("/api", (req, res) => {
   );
 });
 
-app.use(cors());
+app.use(cors({ origin: process.env.ORIGIN_1 }));
 //Enable express
 app.use(express.json({ extended: true }));
 
