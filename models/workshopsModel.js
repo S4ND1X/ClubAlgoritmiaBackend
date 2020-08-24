@@ -1,7 +1,7 @@
-// Imprto moongose to export the model base on schema
+// Import moongose to export the model base on schema
 const mongoose = require("mongoose");
 
-//Schema of a workshop
+//Schema of a workshop, youy can cahnge this to request a different DB
 const WorkshopSchema = mongoose.Schema({
   level: String,
   name: String,

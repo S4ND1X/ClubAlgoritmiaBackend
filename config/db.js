@@ -13,7 +13,7 @@ const connectDB = async () => {
       useFindAndModify: false,
     });
     console.log("====================================");
-    console.log("DB conectada");
+    console.log("DB Connected");
     console.log("====================================");
   } catch (error) {
     console.log("====================================");
