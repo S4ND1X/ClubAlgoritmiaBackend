@@ -28,7 +28,7 @@ app.use("/api/workshops", require("./routes/workshopsRoute"));
 //Run server ans start listening port
 app.listen(port, "0.0.0.0", () => {
   console.log("====================================");
-  console.log(`Running on ${port}`);
+  console.log(`Running on - ${port}`);
   console.log("====================================");
 });
 
